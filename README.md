@@ -10,6 +10,7 @@ Screenshot: ![image](https://github.com/user-attachments/assets/421f204a-7fff-4a
 # 2 AWS Cloud Quest Badge
 
 ## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
+In Progress , Will Complete this within this week.
 Screenshot: ![image](https://github.com/user-attachments/assets/80152ac7-7fd4-4402-9af9-f93bee313b19)
 
 
